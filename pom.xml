@@ -14,6 +14,10 @@
         <includes>
           <include>**/*.feature</include>
           <include>**/*.properties</include>
+          <include>**/*.pdf</include>
+          <include>**/*.png</include>
+          <include>**/*.jpg</include>
+          <include>**/*.xlsx</include>
         </includes>
       </testResource>
     </testResources>
